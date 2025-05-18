@@ -1,0 +1,2 @@
+face_recognition\nopencv-python
+Libraries: face_recognition, OpenCV
